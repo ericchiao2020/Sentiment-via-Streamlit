@@ -6,7 +6,8 @@ scikit-learn>=1.8.0
 joblib>=1.5.3
 streamlit>=1.36.0
 
-thinc==8.3.10
+thinc>=8.1.8
 spacy>=3.7.2
+
 
 
